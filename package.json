@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "publisher": "redcitylights",
   "repository": "https://github.com/redcitylights/subway-surfers-gameplay-embed.git",
+  "icon": "./subway_surfers_logo.png",
   "engines": {
     "vscode": "^1.76.0"
   },
